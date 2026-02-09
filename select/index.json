@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "有頂天",
+  "base_artist": "ポルカドットスティングレイ",
+  "createdAt": "2026-02-09T16:53:59.758275Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "有頂天",
+      "artist": "B'z - Singles",
+      "has_synced": true,
+      "path": "select/01_有頂天_B'z_-_Singles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "有頂天",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/02_有頂天_B'z.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "有頂天",
+      "artist": "B’z",
+      "has_synced": true,
+      "path": "select/03_有頂天_B’z.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "有頂天",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_01_有頂天_ポルカドットスティングレイ.txt"
+    }
+  ]
+}
